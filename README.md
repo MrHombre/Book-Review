@@ -1,1 +1,2 @@
 == README
+Using Slim syntax

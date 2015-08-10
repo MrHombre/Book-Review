@@ -1,6 +1,6 @@
 == README
 = Todo
-* Using Slim syntax
+* Using Gem Slim will be changed to slim later still like using erb
 
 * Add avatar for user
 
